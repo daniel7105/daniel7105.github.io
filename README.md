@@ -2,7 +2,7 @@
 ## Schützenverein der Pontstraße
 ###### "Sich gepflegt aus der Rüstung schießen, über den Dächern der Ponte"
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>W3.CSS Template</title>
