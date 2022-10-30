@@ -40,8 +40,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
 
     <div class="w3-container">
-      <p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed
-        tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+      <p>Nach einem konsumreichen Abend und einer Reihe ausgesprochen wilder, teils schwer rekonstruierbarer, Ereignisse, wurden die vier Schloßbuben einst von der Welt der Schützen dazu berufen, sich zur frühen Stunde eines Mittwochs inmitten des Septembers in festlicher Tracht zusammenzufinden, um den wahrscheinlich ersten Schützenverein der Pontstraße ins Leben zu rufen und ein Schützenfest zu feiern. Das Fest wurde mit einem gutbürgerlichen Mettfrühstück eingeleitet und mit traditioneller Marschmusik begleitet. Im Rahmen der Feierlichkeit konnte in einem fairen Ordensschießen der erste Schützenkönig der Schloßbuben ermittelt werden. Ein Hoch auf den ersten Schützenkönig der Pontstraße, Philippo!!! Ein Hoch auf die Jiescheider Schloßbuben!!!  </p>
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
