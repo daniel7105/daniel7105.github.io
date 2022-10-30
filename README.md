@@ -22,7 +22,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32"> 
-  <h1><b>MY BLOG</b></h1>
+  <h1> <img src="/48626476.jpeg" alt="ps1hagrid" style="width:100%"> </h1>
   <p>Willkommen auf der Website der <span class="w3-tag">GIESCHEIDER SCHLOSSBUBEN</span></p>
 </header>
 
