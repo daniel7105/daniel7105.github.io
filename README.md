@@ -2,4 +2,4 @@
 ## The second largest heading
 ###### The smallest heading
 
-theme: MERLOT
+remote_theme: pages-themes/merlot@v0.2.0
