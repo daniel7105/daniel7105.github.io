@@ -22,7 +22,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32"> 
-  <h1> <img src="/48626476.jpeg" alt="ps1hagrid" style="width:50%"> </h1>
+  <h1> <img src="/photo1667165023.jpeg" alt="ps1hagrid" style="width:50%"> </h1>
   <p>Willkommen auf der Website der <span class="w3-tag">GIESCHEIDER SCHLOSSBUBEN</span></p>
 </header>
 
@@ -33,7 +33,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l8 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="/photo1667165023.jpeg" alt="logo" style="width:100%">
+    <img src="/48626476.jpeg" alt="logo" style="width:100%">
     <div class="w3-container">
       <h3><b>1. Schützenfest der Pontstraße</b></h3>
       <h5> <span class="w3-opacity">14. September 2022</span></h5>
