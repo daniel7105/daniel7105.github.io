@@ -33,7 +33,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l8 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="/48626476.jpeg" alt="logo" style="width:100%">
+    <img src="/48626476.jpeg" alt="logo" style="width:50%">
     <div class="w3-container">
       <h3><b>1. Schützenfest der Pontstraße</b></h3>
       <h5> <span class="w3-opacity">14. September 2022</span></h5>
