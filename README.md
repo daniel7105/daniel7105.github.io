@@ -3,7 +3,7 @@
 ###### "Sich gepflegt aus der Rüstung schießen, über den Dächern der Ponte"
 
 
-<html>
+
 <head>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
