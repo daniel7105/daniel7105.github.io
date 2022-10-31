@@ -1,3 +1,4 @@
+title-heading: false
 # Die Giescheider Schlossbuben
 ## 1. Schützenverein der Pontstraße seit 14.09.2022
 ###### "Sich gepflegt aus der Rüstung schießen, über den Dächern der Ponte"
